@@ -1,6 +1,7 @@
 setfpscap(60)
+loadstring(game:HttpGet('https://raw.githubusercontent.com/that0neguyhere/Anti-V7/main/Anti%20V7'))()
+
 local folder = game:GetObjects('rbxassetid://10107385072')[1]
-folder.Parent = workspace.non
 
 ---------------------------
 --/                     \--
